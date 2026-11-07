@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iOS Keyboard</string>
+    <string name="keyboard_name">iOS Style Keyboard</string>
+    <string name="keyboard_english">English (US)</string>
+</resources>
