@@ -226,7 +226,7 @@ class KeyboardService : InputMethodService() {
         private val paint = Paint(Paint.ANTI_ALIAS_FLAG).apply {
             this.color = color
             style = Paint.Style.STROKE
-            strokeWidth = dp(1.8f)
+            strokeWidth = dp(1.8f).toFloat()
             strokeCap = Paint.Cap.ROUND
             strokeJoin = Paint.Join.ROUND
         }
